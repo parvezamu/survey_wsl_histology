@@ -44,13 +44,13 @@ networkx==2.5
 notebook==5.7.4
 numpy==1.21.2
 olefile==0.46
-opencv-python==3.4.4.19
+opencv-python==3.4.7.28.19
 packaging==20.9
 pandocfilters==1.4.2
 parso==0.3.1
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==8.3.1
+Pillow==9.2.0
 pluggy==0.13.1
 pretrainedmodels==0.7.4
 prometheus-client==0.3.1
